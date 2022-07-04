@@ -9,6 +9,7 @@ h1{
 
 section{
     display: flex;
+    margin-top: 100px;
 }
 .half-width{
     width: 50%;
@@ -31,4 +32,9 @@ section{
 .top-banner{
     background-image: url(image/top-banner.png);
     background-repeat: no-repeat;
+}
+.dream{
+    background-image: url(image/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
 }
